@@ -3,9 +3,7 @@
 
 
 
-- How to reach me **elvinsabu0808@gmail.com**
 
-<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -51,5 +49,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
+<p align="center">How to reach me: **elvinsabu0808@gmail.com**</p>
 
 
